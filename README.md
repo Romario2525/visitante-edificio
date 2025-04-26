@@ -25,9 +25,3 @@ Este programa de consola en Java permite almacenar y mostrar información sobre 
    java Visitante
    ```
 
-## Captura de pantalla (opcional)
-*Puedes agregar aquí una imagen de tu programa funcionando si quieres impresionar más.*
-
----
-
-¡Este programa fue desarrollado como parte del taller de Java básico! 🚀
